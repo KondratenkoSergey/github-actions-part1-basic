@@ -2,6 +2,6 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/KondratenkoSergey/github-actions-part-1-basic/workflows/My-GitHubActions-Basics/badge.svg"><br>
+<img src="https://github.com/KondratenkoSergey/github-actions-part1-basic/workflows/my-basics.yml/badge.svg?branch=main"><br>
 
 
